@@ -1,7 +1,10 @@
  # 💫 About Me:
 🌱 Learning Web Development
+
 💻 HTML | CSS | JavaScript (Beginner)
+
 🚀 Building projects & improving daily
+
 🤝 Open to collaboration & learning
 
 
