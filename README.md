@@ -1,5 +1,8 @@
  # 💫 About Me:
-I'm currently working on web development and software development
+🌱 Learning Web Development
+💻 HTML | CSS | JavaScript (Beginner)
+🚀 Building projects & improving daily
+🤝 Open to collaboration & learning
 
 
 ## 🌐 Socials:
